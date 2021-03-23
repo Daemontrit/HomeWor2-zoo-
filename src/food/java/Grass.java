@@ -1,4 +1,7 @@
 package food.java;
 
-public class Grass extends Food {
+public abstract class Grass extends Food {
+    public void Grass(){
+        System.out.println("использовали траву");
+    }
 }

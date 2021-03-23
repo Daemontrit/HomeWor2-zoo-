@@ -1,5 +1,6 @@
 package Animals.java;
 
 public interface Swim {
-    public abstract void swim();
+    public abstract void fastSwim();
+    public abstract void slowlySwim();
 }

@@ -1,4 +1,7 @@
 package food.java;
 
-public class Meat extends Food{
+public abstract class Meat extends Food{
+    public void Meat(){
+        System.out.println("использовали мясо");
+    }
 }

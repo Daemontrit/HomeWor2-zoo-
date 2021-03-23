@@ -1,5 +1,5 @@
 package Animals.java;
 
 public interface Voice {
-    public void voice();
+    public void golos();
 }

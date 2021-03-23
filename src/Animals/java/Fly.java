@@ -1,5 +1,6 @@
 package Animals.java;
 
 public interface Fly {
-    void fly();
+    void vzlet();
+    void posadka();
 }

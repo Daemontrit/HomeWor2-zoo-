@@ -8,7 +8,7 @@ public class Worker {
     }
 
     public void getVoid(Voice animal) {
-            animal.voice();
+            animal.golos();
     }
 }
 
